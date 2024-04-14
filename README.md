@@ -5,19 +5,15 @@ NewsBuzz is a news-providing website   using Django and beautiful-soup  which  p
 
 ## Screenshot 1
 
-![image](https://github.com/gaurav0401/NewsBuzz/assets/80095859/d917ffbc-f627-4689-9e6c-94b16e37575c)
+![ss1](https://github.com/gaurav0401/Dockerized-NewsBuzz-Django-based-web-App-/assets/80095859/fa7f6cbc-4684-4fd5-9492-1cce2e4fd58d)
 
 
 
 ## Screenshot 2
 
-![image](https://github.com/gaurav0401/NewsBuzz/assets/80095859/37801032-62ae-4b2b-99c3-b3b82e3c0487)
+![image](https://github.com/gaurav0401/Dockerized-NewsBuzz-Django-based-web-App-/assets/80095859/353a2d8b-a7ad-4a93-a8d3-034219ea2a2e)
 
 
-## Screenshot 3 
-![image](https://github.com/gaurav0401/NewsBuzz/assets/80095859/9d440e6b-0779-4e9b-b8c3-457e7cf2b09f)
 
 
-## Screenshot 4
-![image](https://github.com/gaurav0401/NewsBuzz/assets/80095859/23649695-c59d-414a-a6cb-c16e359d0218)
 
